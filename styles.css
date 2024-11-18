@@ -1,11 +1,11 @@
 /*KAUAN DE CASTRO 2C 13.11.2024*/
 
-@import url("style/header.css");
+@import url("style/rodapé.css");
 @import url("style/banner.css");
 @import url("style/carrossel.css");
-@import url("style/topicos.css");
-@import url("style/contato.css");
-@import url("style/rodapé.css");
+@import url("style/topicos");
+@import url("style/header");
+@import url("style/contato");
 
 :root {
     --cor-de-fundo: #EBECEE;
